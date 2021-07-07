@@ -2,4 +2,6 @@ function persona(){
 
 }
 
-persona.prototype.walk = function(){}
+persona.prototype.walk = function(){
+    
+}
