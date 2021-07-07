@@ -6,5 +6,9 @@ public class Car {
     String driver;
     Integer passenger;
 
+    void printDataCar(){
+        System.out.println("El nombre diriver: "+this.driver+" con placa: "+this.license);
+        
+    }
     
 }
